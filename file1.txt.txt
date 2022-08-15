@@ -1,0 +1,6 @@
+Git 
+jenkins
+ansible
+docker
+kubernetes
+bash scripting
